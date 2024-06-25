@@ -1,0 +1,151 @@
+; Jacking in...
+; Connecting using "Leiningen" project type.
+; You can make Calva auto-select this.
+;   - See https://calva.io/connect-sequences/
+; 
+
+; Starting Jack-in Terminal: (cd /Users/dineshkumarkolimi/Documents/GitHub/ClojureGithub/ClojureWorkspace/clojure-basics; lein update-in :dependencies conj '[nrepl,"1.1.1"]' -- update-in :plugins conj '[cider/cider-nrepl,"0.47.1"]' -- update-in '[:repl-options,:nrepl-middleware]' conj '["cider.nrepl/cider-middleware"]' -- with-profile +uberjar repl :headless)
+; Using host:port 127.0.0.1:51412 ...
+; Hooking up nREPL sessions ...
+; Connected session: clj
+; Evaluating code from settings: 'calva.autoEvaluateCode.onConnect.clj'
+nil
+clj꞉clojure-basics.core꞉> 
+; Jack-in done.
+clj꞉clojure-basics.core꞉> 
+#'clojure-basics.core/-main
+clj꞉clojure-basics.core꞉> 
+#'clojure-basics.core/-main
+clj꞉clojure-basics.core꞉> 
+#'clojure-basics.core/-main
+clj꞉clojure-basics.core꞉> 
+#'clojure-basics.core/-main
+clj꞉clojure-basics.core꞉> 
+#'clojure-basics.core/-main
+clj꞉clojure-basics.core꞉> 
+#'clojure-basics.core/-main
+clj꞉clojure-basics.core꞉> 
+#'clojure-basics.core/dataTypes
+clj꞉clojure-basics.core꞉> 
+#'clojure-basics.core/dataTypes
+clj꞉clojure-basics.core꞉> 
+#'clojure-basics.core/dataTypes
+clj꞉clojure-basics.core꞉> 
+#'clojure-basics.core/dataTypes
+clj꞉clojure-basics.core꞉> 
+; 10 1.5 hello
+nil
+clj꞉clojure-basics.core꞉> 
+; 10 1.5 hello
+nil
+clj꞉clojure-basics.core꞉> 
+; Syntax error compiling at (src/clojure_basics/core.clj:30:1).
+; Unable to resolve symbol: whileLoop in this context
+clj꞉clojure-basics.core꞉> 
+; nREPL Connection was closed
+; Jacking in...
+; Connecting using "Leiningen" project type.
+; You can make Calva auto-select this.
+;   - See https://calva.io/connect-sequences/
+; 
+
+; Starting Jack-in Terminal: (cd /Users/dineshkumarkolimi/Documents/GitHub/ClojureGithub/ClojureWorkspace/clojure-basics; lein update-in :dependencies conj '[nrepl,"1.1.1"]' -- update-in :plugins conj '[cider/cider-nrepl,"0.47.1"]' -- update-in '[:repl-options,:nrepl-middleware]' conj '["cider.nrepl/cider-middleware"]' -- with-profile +uberjar repl :headless)
+; Using host:port 127.0.0.1:51539 ...
+; Hooking up nREPL sessions ...
+; Connected session: clj
+; Evaluating code from settings: 'calva.autoEvaluateCode.onConnect.clj'
+nil
+clj꞉clojure-basics.core꞉> 
+; Jack-in done.
+clj꞉clojure-basics.core꞉> 
+; executing whileLoop Method
+; 1
+; 2
+; 3
+; 4
+nil
+clj꞉clojure-basics.core꞉> 
+; executing dataTypes method
+; 10 1.5 hello
+"101.5hello"
+clj꞉clojure-basics.core꞉> 
+; executing whileLoop Method
+; 1
+; 2
+; 3
+; 4
+nil
+clj꞉clojure-basics.core꞉> 
+; executing dataTypes method
+; 10 1.5 hello
+"101.5hello"
+clj꞉clojure-basics.core꞉> 
+; Syntax error compiling at (src/clojure_basics/core.clj:37:1).
+; Unable to resolve symbol: doSeq in this context
+clj꞉clojure-basics.core꞉> 
+; Syntax error compiling at (src/clojure_basics/core.clj:44:1).
+; Unable to resolve symbol: doTimes in this context
+clj꞉clojure-basics.core꞉> 
+; nREPL Connection was closed
+; Jacking in...
+; Connecting using "Leiningen" project type.
+; You can make Calva auto-select this.
+;   - See https://calva.io/connect-sequences/
+; 
+
+; Starting Jack-in Terminal: (cd /Users/dineshkumarkolimi/Documents/GitHub/ClojureGithub/ClojureWorkspace/clojure-basics; lein update-in :dependencies conj '[nrepl,"1.1.1"]' -- update-in :plugins conj '[cider/cider-nrepl,"0.47.1"]' -- update-in '[:repl-options,:nrepl-middleware]' conj '["cider.nrepl/cider-middleware"]' -- with-profile +uberjar repl :headless)
+; Using host:port 127.0.0.1:51647 ...
+; Hooking up nREPL sessions ...
+; Connected session: clj
+; Evaluating code from settings: 'calva.autoEvaluateCode.onConnect.clj'
+nil
+clj꞉clojure-basics.core꞉> 
+; Jack-in done.
+clj꞉clojure-basics.core꞉> 
+; Executing doTimes method:
+; 0
+; 1
+; 2
+; 3
+; 4
+nil
+clj꞉clojure-basics.core꞉> 
+; Executing doSeq method:
+; 0
+; 1
+; 2
+nil
+clj꞉clojure-basics.core꞉> 
+; Executing whileLoop method:
+; 1
+; 2
+; 3
+; 4
+nil
+clj꞉clojure-basics.core꞉> 
+#'clojure-basics.core/listMethods
+clj꞉clojure-basics.core꞉> 
+#'clojure-basics.core/listMethods
+clj꞉clojure-basics.core꞉> 
+#'clojure-basics.core/listMethods
+clj꞉clojure-basics.core꞉> 
+#'clojure-basics.core/listMethods
+clj꞉clojure-basics.core꞉> 
+#'clojure-basics.core/listMethods
+clj꞉clojure-basics.core꞉> 
+#'clojure-basics.core/listMethods
+clj꞉clojure-basics.core꞉> 
+; -------------Executing list methods:
+; 1. use list* to add elements to the beginning of a list:
+; ((1 2) 3 4 5)
+; (1 3 4 5)
+; 2. first for accessing the first element and nth for nth elements:
+; 3
+; 5
+; 3. cons for adding elements to the beginning and conj for the end:
+; (2 3 4 5)
+; (7 6 3 4 5)
+; 4. rest returns the rest of elements in the list except the first:
+; (4 5)
+nil
+clj꞉clojure-basics.core꞉> 
